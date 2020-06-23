@@ -18,14 +18,6 @@
 
 .profile-container header img {
   height: 100px;
-  stroke: transparent;
-  stroke-width: 0;
-}
-
-.profile-container header a {
-  width: 260px;
-  margin-left: auto;
-  margin-top: 0;
 }
 
 .profile-container header button {
