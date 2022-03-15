@@ -1,4 +1,4 @@
-<h1 align="center">Dívidas LEO Clube Taqua</h1>
+<h1 align="center">Relatório tesouraria LEO Clube Taqua</h1>
 
 <h4 align="center">
   ☕ Code and coffee
@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto teve a finalidade ser servir como relatório de tesouraria do LEO Clube de Taquaritinga durante a gestão 2018/2019. A ferramenta auxiliava os associados a acompanharem seus débitos com o clube e como quitar o mesmos.
+Esse projeto teve a finalidade ser servir como relatório de tesouraria do LEO Clube de Taquaritinga durante o AL 2018/2019. A ferramenta auxiliava os associados a acompanharem seus débitos com o clube e como quitar o mesmos.
 
 ## 🤔 Como contribuir
 
