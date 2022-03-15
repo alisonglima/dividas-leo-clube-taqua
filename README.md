@@ -1,4 +1,4 @@
-<h1 align="center">Relatório tesouraria LEO Clube Taqua</h1>
+<h1 align="center">LEO Club Taqua treasury report</h1>
 
 <h4 align="center">
   ☕ Code and coffee
@@ -21,29 +21,29 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How to contribute</a>
 </p>
 
 <br>
 
-## :rocket: Tecnologias
+## :rocket: Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 
-## 💻 Projeto
+## 💻 Project
 
-Esse projeto teve a finalidade ser servir como relatório de tesouraria do LEO Clube de Taquaritinga durante o AL 2018/2019. A ferramenta auxiliava os associados a acompanharem seus débitos com o clube e como quitar o mesmos.
+This project was intended to serve as a treasury report for the LEO Club de Taquaritinga during AL 2018/2019. The tool helped members track their club debts and how to pay them off.
 
-## 🤔 Como contribuir
+## 🤔 How to contribute
 
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
+- Fork this repository;
+- Create a branch with your feature: `git checkout -b my-feature`;
+- Commit your changes: `git commit -m 'feat: My new feature'`;
+- Push to your branch: `git push origin my-feature`.
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+After your pull request is merged, you can delete your branch.
